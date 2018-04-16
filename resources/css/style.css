@@ -119,3 +119,50 @@ nav {
 #ruler {
 	margin: 0 6rem 0 6rem;
 }
+
+/*Text Section*/
+
+.textcontainer {
+	margin: 3rem auto 0 23rem;
+	display: flex;
+	justify-content: center;
+	width: 50%;
+}
+
+.philosophy {
+	width: 35%;
+	margin-right: 5%;
+}
+
+.appointments {
+	width: 35%;
+}
+
+.heading h2 {
+	color: white;
+	display: inline-block;
+	background-color: cadetblue;
+	font-size: 1rem;
+	font-weight: bold;
+	padding: 0.5rem 2.75rem 0.5rem 1.25rem;
+	margin-bottom: 1rem;
+
+}
+
+
+/*Footer Section*/
+
+.footer {
+	background-color: azure;
+	display: flex;
+	justify-content: flex-start;
+	padding: 4rem 0 4rem 0;
+	margin-top: 5rem;
+
+}
+
+.footer img {
+	height: 1.5rem;
+	margin: 0 1rem 0 4rem;
+
+}
